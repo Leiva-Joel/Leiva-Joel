@@ -2,4 +2,5 @@
 - 👀 Estoy interesado en el desarrollog WEB 
 - 🌱 Actualmente estoy aprendiendo Git y GitHub
 - 💞️ Me encanta hacer proyectos en equipo
+- 💪🏻 Autodidacta
 - 📫 leivajoel79@gmail.com
